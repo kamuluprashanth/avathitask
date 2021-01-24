@@ -1,7 +1,11 @@
 Read Me
-1. First clone the repository in your local machine
+1. First clone the repository in your local machine and swith to master branch
 
 git clone https://github.com/kamuluprashanth/avathitask.git
+
+To switch to branch run the command
+
+git checkout master
 
 2. Go to the folder, run the command
 composer install
